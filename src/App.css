@@ -132,3 +132,8 @@
     transform: translate(-22px, 5px) skew(21deg);
   }
 }
+@media all and (max-width: 600px) {
+  .quote-container {
+    font-size: 20px;
+  }
+}
